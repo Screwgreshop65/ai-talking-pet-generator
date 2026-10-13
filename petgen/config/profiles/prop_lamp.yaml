@@ -1,0 +1,15 @@
+name: Lampy
+mode: prop
+rig_id: rig2d_prop
+voice_id: en_US-ryan-low
+tags: [object, lamp, deadpan]
+persona:
+  name: Lampy
+  species: object
+  tone: deadpan
+  catchphrase: "click."
+  backstory: >
+    A desk lamp that has seen too much and has opinions about screen
+    brightness. Speaks only when switched on.
+  taboos:
+    - "cheap bulbs"
