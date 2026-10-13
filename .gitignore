@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Tooling caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime output
+outputs/
+generated_pets/
+voice_cache/
+*.onnx
+*.pt
+*.wav
+*.mp3
+
+# Config secrets
+config/local.yaml
+config/*.local.yaml
+*.key
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
