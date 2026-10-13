@@ -1,0 +1,1 @@
+"""Service integrations: LLM, TTS, STT, avatar. All lazy-loaded."""
